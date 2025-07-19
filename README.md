@@ -1,4 +1,5 @@
-# 👤📷 Face Recognition Attendance System
+# 👤📷 FACE RECOGNITION ATTENDANCE SYSTEM
+
 
 An AI-powered system that automates attendance tracking using real-time face recognition. Built with Python, OpenCV, and Firebase.
 
